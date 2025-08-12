@@ -14,7 +14,7 @@ When I'm not debugging, you'll find me dreaming about cool projects and new tech
 
 ---
 
-![Cartoon Coding](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+![Cartoon Coding]([https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif))
 
 
 
