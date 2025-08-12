@@ -14,7 +14,8 @@ When I'm not debugging, you'll find me dreaming about cool projects and new tech
 
 ---
 
-![Cute Coding Kitty](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Cartoon Coding](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
 
 
 
