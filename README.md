@@ -14,5 +14,4 @@ When I'm not debugging, you'll find me dreaming about cool projects and new tech
 
 ---
 
-![Cute coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
+![Puneesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneesha&show_icons=true&theme=radical)
