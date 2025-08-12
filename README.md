@@ -14,6 +14,7 @@ When I'm not debugging, you'll find me dreaming about cool projects and new tech
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puneesha&theme=radical)
+![Puneesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=puneesha&show_icons=true&theme=radical)
+
 
 
