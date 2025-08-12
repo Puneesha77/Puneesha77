@@ -14,5 +14,6 @@ When I'm not debugging, you'll find me dreaming about cool projects and new tech
 
 ---
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=puneesha&theme=react-dark&area=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puneesha&theme=radical)
+
 
