@@ -13,7 +13,7 @@ A curious software engineering student who loves turning ideas into code! ðŸš€âœ
 
 ---
 
-![Cartoon Coding](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
 
 
 
