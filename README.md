@@ -63,10 +63,4 @@
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puneesha77&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneesha77" alt="GitHub Streak" />
-</p>
