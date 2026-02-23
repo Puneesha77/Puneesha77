@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <b>2nd year final project</b> | 📫 Reach me at: <b>puneeshar@gmail.com</b>
+  🔭 📫 Reach me at: <b>puneeshar@gmail.com</b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
