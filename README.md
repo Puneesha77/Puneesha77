@@ -15,12 +15,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
-  </a>
+  
 </p>
 
 <h3 align="center">Languages & Tools:</h3>
